@@ -1,0 +1,45 @@
+book1
+Library Number: 12
+Author: jaja
+Title: aa
+Date of release: 12
+Publisher: aa
+Theme: aa
+
+
+book2
+Library Number: 13
+Author: jaja
+Title: aa
+Date of release: 12
+Publisher: aa
+Theme: aa
+
+
+book3
+Library Number: 14
+Author: jaja
+Title: aa
+Date of release: 12
+Publisher: aa
+Theme: aa
+
+
+book4
+Library Number: 132
+Author: Ivam
+Title: Ivan
+Date of release: 2022
+Publisher: Orange
+Theme: Sport
+
+
+book5
+Library Number: 134
+Author: Ivan
+Title: Ivan
+Date of release: 2022
+Publisher: Orange
+Theme: Istoriq
+
+

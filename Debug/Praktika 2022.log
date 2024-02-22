@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\White Dragon\source\repos\Praktika 2022\Praktika 2022\Source.cpp(54,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\White Dragon\source\repos\Praktika 2022\Praktika 2022\Source.cpp(66,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\White Dragon\source\repos\Praktika 2022\Praktika 2022\Source.cpp(81,25): warning C4018: '<': signed/unsigned mismatch
+  Praktika 2022.vcxproj -> C:\Users\White Dragon\source\repos\Praktika 2022\Debug\Praktika 2022.exe
